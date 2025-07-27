@@ -1,4 +1,4 @@
-name = "navsphere"
+name = "zegu-nav"
 compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
@@ -6,10 +6,11 @@ pages_build_output_dir = ".vercel/output/static"
 
 
 [env.production.vars]
-GITHUB_ID = "Ov23lig3bTXpZHrPO1c8"
-GITHUB_OWNER = "tianyaxiang"
-GITHUB_REPO = "NavSphere"
+GITHUB_OWNER = "zeguchuanmei"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://dh.leti.ltd/api/auth"
-NEXT_PUBLIC_API_URL="https://dh.leti.ltd"
+GITHUB_REPO = "zegu_navsphere_data"
+
+GITHUB_ID = "Ov23liFaqpnIopVZ0ZbG"
+NEXTAUTH_URL = "https://zegu-nav.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://zegu-nav.pages.dev"
 
