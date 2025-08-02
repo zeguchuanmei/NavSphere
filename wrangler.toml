@@ -11,6 +11,6 @@ GITHUB_BRANCH = "main"
 GITHUB_REPO = "zegu_navsphere_data"
 
 GITHUB_ID = "Ov23liFaqpnIopVZ0ZbG"
-NEXTAUTH_URL = "https://zegu-nav.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://zegu-nav.pages.dev"
+NEXTAUTH_URL = "https://nav.xque.net/api/auth"
+NEXT_PUBLIC_API_URL="https://nav.xque.net"
 
