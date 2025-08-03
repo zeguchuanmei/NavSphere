@@ -816,7 +816,16 @@
       "icon": "Target",
       "description": "各地人社网站直达",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754196613034_90j0an6ks",
+          "title": "人社部",
+          "href": "https://www.mohrss.gov.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
