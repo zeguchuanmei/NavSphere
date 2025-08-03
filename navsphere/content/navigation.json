@@ -873,6 +873,14 @@
               "description": "职业技能等级证书查询系统",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754197918676_jmpijb1on",
+              "title": "备案机构查询",
+              "href": "https://pjjg.osta.org.cn/",
+              "description": "职业技能等级备案机构查询",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
