@@ -824,16 +824,7 @@
       "icon": "Target",
       "description": "各地人社网站直达",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1754196972728_eqae84elk",
-          "title": "天津人社",
-          "href": "https://hrss.tj.gov.cn/",
-          "description": "天津市人力资源和社会保障局",
-          "icon": "/assets/img_1754197010886.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "5ab0fb7d-2187-4754-9c72-5719343417df",
@@ -905,6 +896,14 @@
               "href": "https://rst.hebei.gov.cn/",
               "description": "河北人社网",
               "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "site_1754196972728_eqae84elk",
+              "title": "天津人社",
+              "href": "https://hrss.tj.gov.cn/",
+              "description": "天津市人力资源和社会保障局",
+              "icon": "/assets/img_1754197010886.png",
               "enabled": true
             }
           ]
