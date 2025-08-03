@@ -826,14 +826,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1754196843738_zell0wdb1",
-          "title": "北京人社部",
-          "href": "https://rsj.beijing.gov.cn/ywsite/zyjd/",
-          "description": "北京市人力资源和社会保障局职业技能鉴定栏目",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "site_1754196972728_eqae84elk",
           "title": "天津人社",
           "href": "https://hrss.tj.gov.cn/",
@@ -904,6 +896,14 @@
               "title": "人社部",
               "href": "https://www.mohrss.gov.cn/",
               "description": "中华人民共和国人力资源和社会保障部",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "site_1754196843738_zell0wdb1",
+              "title": "北京人社部",
+              "href": "https://rsj.beijing.gov.cn/ywsite/zyjd/",
+              "description": "北京市人力资源和社会保障局职业技能鉴定栏目",
               "icon": "",
               "enabled": true
             }
