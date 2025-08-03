@@ -858,7 +858,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5ab0fb7d-2187-4754-9c72-5719343417df",
+          "title": "技能人才",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
