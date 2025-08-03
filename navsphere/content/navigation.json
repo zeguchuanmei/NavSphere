@@ -826,14 +826,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1754196613034_90j0an6ks",
-          "title": "人社部",
-          "href": "https://www.mohrss.gov.cn/",
-          "description": "中华人民共和国人力资源和社会保障部",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "site_1754196843738_zell0wdb1",
           "title": "北京人社部",
           "href": "https://rsj.beijing.gov.cn/ywsite/zyjd/",
@@ -906,7 +898,16 @@
           "icon": "BarChart",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754196613034_90j0an6ks",
+              "title": "人社部",
+              "href": "https://www.mohrss.gov.cn/",
+              "description": "中华人民共和国人力资源和社会保障部",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
