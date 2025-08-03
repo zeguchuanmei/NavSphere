@@ -881,6 +881,14 @@
               "description": "职业技能等级备案机构查询",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754197969125_dw98m3ibt",
+              "title": "职业标准查询",
+              "href": "https://www.osta.org.cn/skillStandard",
+              "description": "职业国标查询",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
