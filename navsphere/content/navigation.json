@@ -865,7 +865,16 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754197825878_7lxcg4cv8",
+              "title": "技能等级证书查询",
+              "href": "https://jndj.osta.org.cn/",
+              "description": "职业技能等级证书查询系统",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
