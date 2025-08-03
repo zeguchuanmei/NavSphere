@@ -889,6 +889,14 @@
               "description": "职业国标查询",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754198050682_zg3nj3h8c",
+              "title": "职业分类大典",
+              "href": "https://www.osta.org.cn/career",
+              "description": "职业分类大典查询系统",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
