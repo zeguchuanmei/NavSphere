@@ -396,6 +396,14 @@
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754197442323_kbgx5qy7u",
+              "title": "抖音创作者中心",
+              "href": "https://creator.douyin.com/",
+              "description": "抖音创作者服务中心",
+              "icon": "/assets/img_1754197407264.png",
+              "enabled": true
             }
           ]
         },
