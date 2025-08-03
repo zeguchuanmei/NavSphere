@@ -8,7 +8,7 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_OWNER = "zeguchuanmei"
 GITHUB_BRANCH = "main"
-GITHUB_REPO = "zegu_navsphere_data"
+GITHUB_REPO = "NavSphere"
 
 GITHUB_ID = "Ov23liFaqpnIopVZ0ZbG"
 NEXTAUTH_URL = "https://nav.xque.net/api/auth"
