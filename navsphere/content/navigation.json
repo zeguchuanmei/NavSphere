@@ -832,6 +832,14 @@
           "description": "北京市人力资源和社会保障局职业技能鉴定栏目",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754196972728_eqae84elk",
+          "title": "天津人社",
+          "href": "https://hrss.tj.gov.cn/",
+          "description": "天津市人力资源和社会保障局",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
