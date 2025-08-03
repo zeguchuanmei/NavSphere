@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754196533846",
+      "title": "人社系统",
+      "icon": "Target",
+      "description": "各地人社网站直达",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
