@@ -899,6 +899,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "39098760-aeeb-4575-bab0-71f181e7714c",
+          "title": "各地区人社网站",
+          "icon": "BarChart",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
