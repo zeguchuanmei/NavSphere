@@ -289,6 +289,14 @@
           "description": "中国心理卫生协会",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754721806699",
+          "title": "中央电化教育馆",
+          "href": "https://ca.ncet.edu.cn/",
+          "description": "COSE培训考试平台",
+          "icon": "/assets/img_1754721841741.png",
+          "enabled": true
         }
       ],
       "subCategories": []
