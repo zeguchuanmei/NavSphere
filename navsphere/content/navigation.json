@@ -113,6 +113,14 @@
               "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
               "icon": "/assets/img_1737961266055.png",
               "enabled": true
+            },
+            {
+              "id": "1754715470094",
+              "title": "135编辑器",
+              "href": "https://www.135editor.com/",
+              "description": "微信专业排版编辑器。",
+              "icon": "/assets/img_1754715497594.png",
+              "enabled": true
             }
           ]
         },
