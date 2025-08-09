@@ -178,6 +178,14 @@
               "description": "免费且开源的用于视频录制以及直播串流的软件",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1754723767769",
+              "title": "悦音配音",
+              "href": "https://yueyin.zhipianbang.com/",
+              "description": "悦音配音提供男声女声童声、普通话，方言，英文等多语种的真人声音",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
