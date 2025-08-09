@@ -712,6 +712,14 @@
           "description": "国家市场监督管理总局认证认可研究中心",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754711782162_ttfxug9m5",
+          "title": "工信部教育考试中心",
+          "href": "https://www.miiteec.org.cn/certificate",
+          "description": "工信部教育考试中心",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
