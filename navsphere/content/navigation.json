@@ -162,6 +162,14 @@
               "description": "免费在线视频编辑器，功能全面、操作简单",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1754723605395",
+              "title": "快手云剪",
+              "href": "https://onvideo.kuaishou.com/",
+              "description": "onvideo快手云剪，高效完成视频内容制作",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
