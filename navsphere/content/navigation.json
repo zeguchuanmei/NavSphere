@@ -593,14 +593,6 @@
               "description": "Search 590,912 free icons",
               "icon": "/assets/images/logos/iconarchive.png",
               "enabled": true
-            },
-            {
-              "id": "8_1_6",
-              "title": "IcoMoonApp",
-              "href": "https://icomoon.io/app/",
-              "description": "Icon Font, SVG, PDF & PNG Generator",
-              "icon": "/assets/images/logos/IcoMoonApp.png",
-              "enabled": true
             }
           ]
         },
