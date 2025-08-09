@@ -297,6 +297,14 @@
           "description": "COSE培训考试平台",
           "icon": "/assets/img_1754721841741.png",
           "enabled": true
+        },
+        {
+          "id": "1754721863761",
+          "title": "中国灾害防御协会",
+          "href": "http://www.zaihai.cn/",
+          "description": "房屋体检师证书查询",
+          "icon": "/assets/img_1754721961343.png",
+          "enabled": true
         }
       ],
       "subCategories": []
