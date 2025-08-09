@@ -685,14 +685,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_9",
-              "title": "UICloud",
-              "href": "http://ui-cloud.com/",
-              "description": "The largest user interface design database in the world.",
-              "icon": "/assets/images/logos/UICloud.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_10",
               "title": "Material icons",
               "href": "https://material.io/icons/",
