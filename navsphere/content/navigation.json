@@ -685,14 +685,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_5",
-              "title": "FindIcons",
-              "href": "https://findicons.com/",
-              "description": "Search through 300,000 free icons",
-              "icon": "/assets/images/logos/FindIcons.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_6",
               "title": "IcoMoonApp",
               "href": "https://icomoon.io/app/",
