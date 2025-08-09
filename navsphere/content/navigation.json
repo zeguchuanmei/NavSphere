@@ -20,6 +20,14 @@
           "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
           "icon": "/assets/img_1741747241014.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754714423430_af211n0nm",
+          "title": "创可贴",
+          "href": "https://www.chuangkit.com/",
+          "description": "一款多平台极简图形编辑和平面设计工具，提供了一站式的创意设计解决方案。",
+          "icon": "/assets/img_1754714404021.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
