@@ -720,6 +720,14 @@
           "description": "工信部教育考试中心",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754711908097_dcsphj7ob",
+          "title": "中国质量检验协会",
+          "href": "https://www.chinatt315.org.cn/cercheck/index.html",
+          "description": "中国质量检验协会证书查询",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
