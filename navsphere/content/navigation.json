@@ -165,6 +165,14 @@
               "enabled": true
             },
             {
+              "id": "1754711211881",
+              "title": "豆包",
+              "href": "https://www.doubao.com",
+              "description": "字节跳动旗下AI生成工具",
+              "icon": "/assets/img_1754711264732.png",
+              "enabled": true
+            },
+            {
               "id": "9_2",
               "title": "Claude",
               "href": "https://claude.ai/",
@@ -194,14 +202,6 @@
               "href": "https://www.perplexity.ai/",
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            },
-            {
-              "id": "1754711211881",
-              "title": "豆包",
-              "href": "https://www.doubao.com",
-              "description": "字节跳动旗下AI生成工具",
-              "icon": "/assets/img_1754711264732.png",
               "enabled": true
             }
           ]
