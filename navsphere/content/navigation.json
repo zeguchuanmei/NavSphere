@@ -577,14 +577,6 @@
               "description": "2,100,000+ free and premium vector icons.",
               "icon": "/assets/images/logos/Iconfinder.png",
               "enabled": true
-            },
-            {
-              "id": "8_1_4",
-              "title": "Icon Archive",
-              "href": "http://www.iconarchive.com/",
-              "description": "Search 590,912 free icons",
-              "icon": "/assets/images/logos/iconarchive.png",
-              "enabled": true
             }
           ]
         },
