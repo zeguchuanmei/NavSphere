@@ -916,7 +916,16 @@
       "icon": "LayoutGrid",
       "description": "各个单位、协会证书查询地址",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754710822793",
+          "title": "广电人才网",
+          "href": "https://www.nrtatalent.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
