@@ -780,14 +780,6 @@
               "description": "Brand logos free to download",
               "icon": "/assets/images/logos/worldvectorlogo.png",
               "enabled": true
-            },
-            {
-              "id": "8_2_4",
-              "title": "Instant Logo Search",
-              "href": "http://instantlogosearch.com/",
-              "description": "Search & download thousands of logos instantly",
-              "icon": "/assets/images/logos/InstantLogoSearch.png",
-              "enabled": true
             }
           ]
         },
