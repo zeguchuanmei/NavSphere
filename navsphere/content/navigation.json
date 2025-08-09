@@ -80,14 +80,6 @@
               "description": "抖音创作者服务中心",
               "icon": "/assets/img_1754197407264.png",
               "enabled": true
-            },
-            {
-              "id": "1754715217855",
-              "title": "视频号助手",
-              "href": "https://channels.weixin.qq.com/login.html",
-              "description": "视频号创作者中心",
-              "icon": "/assets/img_1754715256858.png",
-              "enabled": true
             }
           ]
         },
