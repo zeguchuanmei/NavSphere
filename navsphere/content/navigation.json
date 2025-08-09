@@ -20,6 +20,14 @@
           "description": "在线快速图片和视频编辑,不会PS也能搞定设计",
           "icon": "/assets/img_1754721229454.png",
           "enabled": true
+        },
+        {
+          "id": "1754721317189",
+          "title": "腾讯文档",
+          "href": "https://docs.qq.com/desktop",
+          "description": "",
+          "icon": "/assets/img_1754721346903.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
