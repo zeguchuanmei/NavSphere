@@ -725,14 +725,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_11",
-              "title": "Font Awesome Icon",
-              "href": "fontawesomeicon",
-              "description": "The complete set of 675 icons in Font Awesome",
-              "icon": "/assets/images/logos/fontawesomeicon.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_12",
               "title": "ion icons",
               "href": "http://ionicons.com/",
