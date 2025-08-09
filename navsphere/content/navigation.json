@@ -569,16 +569,7 @@
           "href": "#图标素材",
           "icon": "",
           "description": "",
-          "items": [
-            {
-              "id": "8_1_1",
-              "title": "Iconfinder",
-              "href": "https://www.iconfinder.com",
-              "description": "2,100,000+ free and premium vector icons.",
-              "icon": "/assets/images/logos/Iconfinder.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "8_2",
