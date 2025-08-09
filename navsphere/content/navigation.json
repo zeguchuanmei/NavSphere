@@ -704,6 +704,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754711720382_zxlt5rzy2",
+          "title": "认证认可研究中心",
+          "href": "https://www.ccai.org.cn/",
+          "description": "国家市场监督管理总局认证认可研究中心",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
