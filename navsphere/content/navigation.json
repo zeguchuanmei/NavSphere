@@ -168,23 +168,6 @@
           "items": []
         },
         {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
           "title": "画图工具",
           "icon": "Book",
