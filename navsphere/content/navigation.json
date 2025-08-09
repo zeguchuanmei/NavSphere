@@ -401,6 +401,14 @@
           "description": "工信部人才交流中心相关证书查询",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754724570555",
+          "title": "中国人事考试网",
+          "href": "http://www.cpta.com.cn/certQuery.html?gg=news_chujizhicheng_qixiaoran",
+          "description": "中国人事考试网资格证书查询",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
