@@ -313,6 +313,14 @@
           "description": "人社能建中心企业合规官查询",
           "icon": "/assets/img_1754721992840.png",
           "enabled": true
+        },
+        {
+          "id": "1754722034889",
+          "title": "中国食品工业协会",
+          "href": "https://www.cnfia.cn/",
+          "description": "中国食品工业协会",
+          "icon": "/assets/img_1754722106200.png",
+          "enabled": true
         }
       ],
       "subCategories": []
