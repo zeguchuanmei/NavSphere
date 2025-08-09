@@ -321,6 +321,14 @@
           "description": "中国食品工业协会",
           "icon": "/assets/img_1754722106200.png",
           "enabled": true
+        },
+        {
+          "id": "1754722137767",
+          "title": "中国计量测试学会",
+          "href": "http://www.china-csm.org/",
+          "description": " 中国计量测试学会食品工种查询",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
