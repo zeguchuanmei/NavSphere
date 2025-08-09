@@ -305,6 +305,14 @@
           "description": "房屋体检师证书查询",
           "icon": "/assets/img_1754721961343.png",
           "enabled": true
+        },
+        {
+          "id": "1754721978098",
+          "title": "企业合规官平台",
+          "href": "https://www.ccocert.org.cn/",
+          "description": "人社能建中心企业合规官查询",
+          "icon": "/assets/img_1754721992840.png",
+          "enabled": true
         }
       ],
       "subCategories": []
