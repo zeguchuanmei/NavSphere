@@ -534,24 +534,6 @@
           "enabled": true
         },
         {
-          "id": "5",
-          "title": "界面设计",
-          "href": "#界面设计",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
           "id": "6",
           "title": "交互动效",
           "href": "#交互动效",
@@ -580,6 +562,24 @@
               "href": "https://framer.com/",
               "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
               "icon": "/assets/images/logos/framer.png",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
+          "id": "5",
+          "title": "界面设计",
+          "href": "#界面设计",
+          "icon": "Folder",
+          "description": "",
+          "items": [
+            {
+              "id": "5_1",
+              "title": "Figma",
+              "href": "https://www.figma.com/",
+              "description": "在线UI设计工具",
+              "icon": "/assets/images/logos/figma.png",
               "enabled": true
             }
           ],
