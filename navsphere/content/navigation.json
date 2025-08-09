@@ -909,6 +909,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754710808736",
+      "title": "证书查询",
+      "icon": "LayoutGrid",
+      "description": "各个单位、协会证书查询地址",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
