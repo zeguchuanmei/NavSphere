@@ -441,6 +441,14 @@
           "description": "工商联人才交流服务中心",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754725080201",
+          "title": "卫健委人才交流中心",
+          "href": "https://www.21wecan.com/",
+          "description": "卫健委人才交流中心",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
