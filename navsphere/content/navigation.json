@@ -12,6 +12,14 @@
           "description": "一款多平台极简图形编辑和平面设计工具，提供了一站式的创意设计解决方案。",
           "icon": "/assets/img_1754714404021.png",
           "enabled": true
+        },
+        {
+          "id": "1754721181397",
+          "title": "稿定设计",
+          "href": "https://www.gaoding.com/",
+          "description": "在线快速图片和视频编辑,不会PS也能搞定设计",
+          "icon": "/assets/img_1754721229454.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
