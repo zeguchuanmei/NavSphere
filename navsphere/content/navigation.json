@@ -457,6 +457,14 @@
           "description": "中国烹饪协会培训合格证书查询",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754725560848",
+          "title": "中国商业联合会",
+          "href": "https://www.cnzszj.cn/",
+          "description": "中国商业联合会",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
