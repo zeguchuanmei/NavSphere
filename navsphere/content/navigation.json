@@ -425,6 +425,14 @@
           "description": "企业财税合规官",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754724773202",
+          "title": "民用无人机CAAC平台",
+          "href": "https://uom.caac.gov.cn/#/login",
+          "description": "民用无人机CAAC平台",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
