@@ -543,6 +543,14 @@
               "description": "矢量图形和插图。",
               "icon": "/assets/images/logos/Illustrator.png",
               "enabled": true
+            },
+            {
+              "id": "1754723208788",
+              "title": "改图宝",
+              "href": "https://www.gaitubao.com/",
+              "description": "快速、简单的在线修改图片工具 ",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
