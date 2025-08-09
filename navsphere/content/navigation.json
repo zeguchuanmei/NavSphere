@@ -154,6 +154,14 @@
               "description": "具有自动缩放功能的屏幕录像 使用 Cursorful 浏览器扩展程序录制精美的屏幕录像跟随光标缩放或在编辑器中加载您自己的视频并可以手动添加缩放。",
               "icon": "/assets/img_1753396105178.png",
               "enabled": true
+            },
+            {
+              "id": "1754723501065",
+              "title": "剪映网页版",
+              "href": "https://www.capcut.cn/",
+              "description": "免费在线视频编辑器，功能全面、操作简单",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
