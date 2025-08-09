@@ -433,6 +433,14 @@
           "description": "民用无人机CAAC平台",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754724895998",
+          "title": "工商联人才交流服务中心",
+          "href": "https://www.gslhr.org.cn/",
+          "description": "工商联人才交流服务中心",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
