@@ -136,64 +136,6 @@
       ]
     },
     {
-      "id": "1754710808736",
-      "title": "证书查询",
-      "icon": "LayoutGrid",
-      "description": "各个单位、协会证书查询地址",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1754710822793",
-          "title": "广电人才网",
-          "href": "https://www.nrtatalent.cn/",
-          "description": "广电总局人才交流中心全媒体运营师证书查询",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1754711653414_z38vcd2li",
-          "title": "人社能建中心",
-          "href": "https://edu.mohrss.gov.cn/",
-          "description": "人力资源社会保障教育网",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1754711720382_zxlt5rzy2",
-          "title": "认证认可研究中心",
-          "href": "https://www.ccai.org.cn/",
-          "description": "国家市场监督管理总局认证认可研究中心",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1754711782162_ttfxug9m5",
-          "title": "工信部教育考试中心",
-          "href": "https://www.miiteec.org.cn/certificate",
-          "description": "工信部教育考试中心",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1754711908097_dcsphj7ob",
-          "title": "中国质量检验协会",
-          "href": "https://www.chinatt315.org.cn/cercheck/index.html",
-          "description": "中国质量检验协会证书查询",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1754711965362_13qleb6es",
-          "title": "中国心理卫生协会",
-          "href": "https://www.camh.org.cn/",
-          "description": "中国心理卫生协会",
-          "icon": "",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -309,6 +251,64 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1754710808736",
+      "title": "证书查询",
+      "icon": "LayoutGrid",
+      "description": "各个单位、协会证书查询地址",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1754710822793",
+          "title": "广电人才网",
+          "href": "https://www.nrtatalent.cn/",
+          "description": "广电总局人才交流中心全媒体运营师证书查询",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1754711653414_z38vcd2li",
+          "title": "人社能建中心",
+          "href": "https://edu.mohrss.gov.cn/",
+          "description": "人力资源社会保障教育网",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1754711720382_zxlt5rzy2",
+          "title": "认证认可研究中心",
+          "href": "https://www.ccai.org.cn/",
+          "description": "国家市场监督管理总局认证认可研究中心",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1754711782162_ttfxug9m5",
+          "title": "工信部教育考试中心",
+          "href": "https://www.miiteec.org.cn/certificate",
+          "description": "工信部教育考试中心",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1754711908097_dcsphj7ob",
+          "title": "中国质量检验协会",
+          "href": "https://www.chinatt315.org.cn/cercheck/index.html",
+          "description": "中国质量检验协会证书查询",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1754711965362_13qleb6es",
+          "title": "中国心理卫生协会",
+          "href": "https://www.camh.org.cn/",
+          "description": "中国心理卫生协会",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     },
     {
       "id": "1735265493940",
