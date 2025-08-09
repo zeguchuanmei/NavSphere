@@ -553,16 +553,7 @@
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
       "items": [],
-      "subCategories": [
-        {
-          "id": "8_2",
-          "title": "LOGO设计",
-          "href": "#LOGO设计",
-          "icon": "",
-          "description": "",
-          "items": []
-        }
-      ],
+      "subCategories": [],
       "description": ""
     },
     {
