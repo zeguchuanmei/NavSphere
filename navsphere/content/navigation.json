@@ -157,6 +157,14 @@
               "enabled": true
             },
             {
+              "id": "1754711304890",
+              "title": "Deepseek",
+              "href": "https://chat.deepseek.com/",
+              "description": "deepseek 深度求索",
+              "icon": "/assets/img_1754711425939.png",
+              "enabled": true
+            },
+            {
               "id": "9_2",
               "title": "Claude",
               "href": "https://claude.ai/",
@@ -194,14 +202,6 @@
               "href": "https://www.doubao.com",
               "description": "字节跳动旗下AI生成工具",
               "icon": "/assets/img_1754711264732.png",
-              "enabled": true
-            },
-            {
-              "id": "1754711304890",
-              "title": "Deepseek",
-              "href": "https://chat.deepseek.com/",
-              "description": "deepseek 深度求索",
-              "icon": "/assets/img_1754711425939.png",
               "enabled": true
             }
           ]
