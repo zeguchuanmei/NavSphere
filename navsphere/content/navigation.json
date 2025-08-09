@@ -417,6 +417,14 @@
           "description": "职业人才测评中心",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754724716844",
+          "title": "企业财税合规官",
+          "href": "https://www.ctco.org.cn/contact",
+          "description": "企业财税合规官",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
