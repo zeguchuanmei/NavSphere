@@ -585,6 +585,14 @@
               "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
               "icon": "/assets/images/logos/framer.png",
               "enabled": true
+            },
+            {
+              "id": "1754723339882",
+              "title": "讯飞智作",
+              "href": "https://peiyin.xunfei.cn/",
+              "description": "讯飞智作提供合成配音,真人配音、广告宣传片、短视频配音",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
