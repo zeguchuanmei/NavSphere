@@ -329,6 +329,14 @@
           "description": " 中国计量测试学会食品工种查询",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754722221585",
+          "title": "轻工业人才交流中心",
+          "href": "http://app.cnlic.org.cn/jd/search",
+          "description": "中国轻工业人才交流中心证书查询地址",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
