@@ -701,14 +701,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_8",
-              "title": "flaticon",
-              "href": "https://www.flaticon.com/",
-              "description": "634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.",
-              "icon": "/assets/images/logos/flaticon.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_9",
               "title": "UICloud",
               "href": "http://ui-cloud.com/",
