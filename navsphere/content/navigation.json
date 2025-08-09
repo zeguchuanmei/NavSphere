@@ -620,14 +620,6 @@
           "description": "",
           "items": [
             {
-              "id": "8_2_1",
-              "title": "Iconsfeed",
-              "href": "http://www.iconsfeed.com/",
-              "description": "iOS icons gallery",
-              "icon": "/assets/images/logos/iconsfeed.png",
-              "enabled": true
-            },
-            {
               "id": "8_2_3",
               "title": "World Vector Logo",
               "href": "https://worldvectorlogo.com/",
