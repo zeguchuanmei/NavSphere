@@ -113,6 +113,14 @@
               "description": "微信专业排版编辑器。",
               "icon": "/assets/img_1754715497594.png",
               "enabled": true
+            },
+            {
+              "id": "1754722494086",
+              "title": "爱校对",
+              "href": "https://www.ijiaodui.com/",
+              "description": "公文校对，论文纠错，文档查错，错别字检查",
+              "icon": "/assets/img_1754722526311.png",
+              "enabled": true
             }
           ]
         },
