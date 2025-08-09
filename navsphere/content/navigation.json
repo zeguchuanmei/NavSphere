@@ -669,14 +669,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_3",
-              "title": "iconmonstr",
-              "href": "https://iconmonstr.com/",
-              "description": "Free simple icons for your next project",
-              "icon": "/assets/images/logos/iconmonstr.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_4",
               "title": "Icon Archive",
               "href": "http://www.iconarchive.com/",
