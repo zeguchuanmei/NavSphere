@@ -393,6 +393,14 @@
           "description": "中国认证认可协会",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754724260134",
+          "title": "工信部人才交流中心",
+          "href": "https://www.miitec.cn/home/certificate",
+          "description": "工信部人才交流中心相关证书查询",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
