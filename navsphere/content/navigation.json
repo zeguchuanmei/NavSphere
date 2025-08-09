@@ -239,16 +239,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
