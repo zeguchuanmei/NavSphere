@@ -728,6 +728,14 @@
           "description": "中国质量检验协会证书查询",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754711965362_13qleb6es",
+          "title": "中国心理卫生协会",
+          "href": "https://www.camh.org.cn/",
+          "description": "中国心理卫生协会",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
