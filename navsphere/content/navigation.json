@@ -214,16 +214,7 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
-              "icon": "/assets/img_1751433579053.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
