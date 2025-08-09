@@ -173,19 +173,19 @@
               "enabled": true
             },
             {
-              "id": "9_2",
-              "title": "Claude",
-              "href": "https://claude.ai/",
-              "description": "Anthropic开发的AI助手，擅长分析和创作。",
-              "icon": "/assets/images/logos/claude.png",
-              "enabled": true
-            },
-            {
               "id": "9_3",
               "title": "Gemini",
               "href": "https://gemini.google.com/",
               "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
               "icon": "/assets/images/logos/gemini.svg",
+              "enabled": true
+            },
+            {
+              "id": "9_2",
+              "title": "Claude",
+              "href": "https://claude.ai/",
+              "description": "Anthropic开发的AI助手，擅长分析和创作。",
+              "icon": "/assets/images/logos/claude.png",
               "enabled": true
             },
             {
