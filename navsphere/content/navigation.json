@@ -601,14 +601,6 @@
               "description": "Icon Font, SVG, PDF & PNG Generator",
               "icon": "/assets/images/logos/IcoMoonApp.png",
               "enabled": true
-            },
-            {
-              "id": "8_1_10",
-              "title": "Material icons",
-              "href": "https://material.io/icons/",
-              "description": "Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.",
-              "icon": "/assets/images/logos/Materialicons.png",
-              "enabled": true
             }
           ]
         },
