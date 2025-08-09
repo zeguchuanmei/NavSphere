@@ -409,6 +409,14 @@
           "description": "中国人事考试网资格证书查询",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754724690509",
+          "title": "职业人才测评中心",
+          "href": "https://www.rcrzgl.org.cn/CertificateQuery",
+          "description": "职业人才测评中心",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
