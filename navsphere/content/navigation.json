@@ -691,14 +691,6 @@
               "description": "Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.",
               "icon": "/assets/images/logos/Materialicons.png",
               "enabled": true
-            },
-            {
-              "id": "8_1_12",
-              "title": "ion icons",
-              "href": "http://ionicons.com/",
-              "description": "The premium icon font for Ionic Framework.",
-              "icon": "/assets/images/logos/ionicons.png",
-              "enabled": true
             }
           ]
         },
