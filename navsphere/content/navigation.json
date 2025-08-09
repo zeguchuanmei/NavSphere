@@ -537,14 +537,6 @@
               "enabled": true
             },
             {
-              "id": "4_2",
-              "title": "Affinity Designer",
-              "href": "https://affinity.serif.com/",
-              "description": "专业创意软件",
-              "icon": "/assets/images/logos/AffinityDesigner.png",
-              "enabled": true
-            },
-            {
               "id": "4_3",
               "title": "Illustrator",
               "href": "https://www.adobe.com/cn/products/illustrator/",
