@@ -579,14 +579,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_2",
-              "title": "iconfont",
-              "href": "http://www.iconfont.cn/",
-              "description": "阿里巴巴矢量图标库",
-              "icon": "/assets/images/logos/iconfont.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_4",
               "title": "Icon Archive",
               "href": "http://www.iconarchive.com/",
