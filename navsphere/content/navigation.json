@@ -385,6 +385,14 @@
           "description": "中国轻工业人才交流中心证书查询地址",
           "icon": "/assets/img_1754722310876.png",
           "enabled": true
+        },
+        {
+          "id": "1754724242490",
+          "title": "中国认证认可协会",
+          "href": "http://www.ccaa.org.cn/",
+          "description": "中国认证认可协会",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
