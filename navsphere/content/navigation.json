@@ -561,23 +561,6 @@
           "icon": "",
           "description": "",
           "items": []
-        },
-        {
-          "id": "8_3",
-          "title": "平面素材",
-          "href": "#平面素材",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_3_2",
-              "title": "Unsplash",
-              "href": "https://unsplash.com/",
-              "description": "免费高清图片",
-              "icon": "/assets/images/logos/unsplash.png",
-              "enabled": true
-            }
-          ]
         }
       ],
       "description": ""
