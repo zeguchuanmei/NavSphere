@@ -465,6 +465,14 @@
           "description": "中国商业联合会商业职业技能鉴定指导中心",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754887402825",
+          "title": "国际疗愈行业协会",
+          "href": "https://exam.ihiac.org.cn/",
+          "description": "国际疗愈行业协会在线学习考试平台",
+          "icon": "/assets/img_1754887448792.png",
+          "enabled": true
         }
       ],
       "subCategories": []
