@@ -11,6 +11,6 @@ GITHUB_BRANCH = "main"
 GITHUB_REPO = "NavSphere"
 
 GITHUB_ID = "Ov23liFaqpnIopVZ0ZbG"
-NEXTAUTH_URL = "https://nav.xque.net/api/auth"
-NEXT_PUBLIC_API_URL="https://nav.xque.net"
+NEXTAUTH_URL = "https://hao.zhilu.cn/api/auth"
+NEXT_PUBLIC_API_URL="https://hao.zhilu.cn"
 
