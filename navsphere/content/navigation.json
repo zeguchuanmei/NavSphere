@@ -826,6 +826,14 @@
               "description": "天津市人力资源和社会保障局",
               "icon": "/assets/img_1754905417317.png",
               "enabled": true
+            },
+            {
+              "id": "1754907315549",
+              "title": "四川省人社",
+              "href": "https://rst.sc.gov.cn/",
+              "description": "四川省人社厅官方网站",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
