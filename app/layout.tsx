@@ -4,6 +4,7 @@ import { Toaster } from '@/components/ui/toaster'
 import { Providers } from '@/components/providers'
 import type { Metadata } from 'next'
 import Script from 'next/script'
+import { BaiduAnalytics } from '@/components/baidu-analytics'
 
 export const metadata: Metadata = {
   title: {
@@ -33,7 +34,7 @@ export default function RootLayout({
               var _hmt = _hmt || [];
               (function() {
                 var hm = document.createElement("script");
-                hm.src = "https://hm.baidu.com/hm.js?XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+                hm.src = "https://hm.baidu.com/hm.js?96e57260a2099bf1e3eb027e0184be96";
                 var s = document.getElementsByTagName("script")[0];
                 s.parentNode.insertBefore(hm, s);
               })();
@@ -50,6 +51,7 @@ export default function RootLayout({
         >
           <Providers>{children}</Providers>
           <Toaster />
+          <BaiduAnalytics />
         </ThemeProvider>
       </body>
     </html>
