@@ -1,8 +1,6 @@
-import "@/styles/globals.css"
-import { cn } from "@/lib/utils"
-import { ThemeProvider } from "@/components/theme-provider"
-import { Toaster } from "@/components/ui/toaster"
-import { ThemeToggle } from '@/components/theme-toggle'
+import '@/styles/globals.css'
+import { ThemeProvider } from '@/components/theme-provider'
+import { Toaster } from '@/components/ui/toaster'
 import { Providers } from '@/components/providers'
 import type { Metadata } from 'next'
 import Script from 'next/script'
@@ -19,28 +17,27 @@ export const metadata: Metadata = {
 }
 
 export default function RootLayout({
-  children,
+  children
 }: {
   children: React.ReactNode
 }) {
   return (
     <html lang="zh-CN" suppressHydrationWarning>
       <head>
-        {/* Google Analytics */}
+        {/* Baidu Analytics */}
         <Script
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-QG9PGG4K13"
-        />
-        <Script
-          id="google-analytics"
+          id="baidu-analytics"
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-QG9PGG4K13');
-            `,
+              var _hmt = _hmt || [];
+              (function() {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+              })();
+            `
           }}
         />
       </head>
@@ -51,9 +48,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <Providers>
-            {children}
-          </Providers>
+          <Providers>{children}</Providers>
           <Toaster />
         </ThemeProvider>
       </body>
