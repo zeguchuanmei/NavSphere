@@ -2,6 +2,7 @@ import { cn } from "@/lib/utils"
 import Image from "next/image"
 import Link from "next/link"
 import { resolveIconPath } from "@/types/navigation"
+import { trackResourceClick } from "@/lib/baidu-analytics"
 
 interface ResourceCardProps {
   title: string
@@ -21,8 +22,17 @@ export default function ResourceCard({
   // 使用 resolveIconPath 解析图标路径
   const resolvedIcon = resolveIconPath(icon)
 
+  const handleClick = () => {
+    trackResourceClick(title, url)
+  }
+
   return (
-    <Link href={url} target="_blank" className={cn("block", className)}>
+    <Link 
+      href={url} 
+      target="_blank" 
+      className={cn("block", className)}
+      onClick={handleClick}
+    >
       <div className="group relative rounded-lg border p-6 hover:border-foreground">
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-4">

@@ -9,12 +9,14 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip"
+import { trackNavigationClick } from '@/lib/baidu-analytics'
 
 interface NavigationCardProps {
   item: NavigationSubItem
+  categoryTitle?: string
 }
 
-export function NavigationCard({ item }: NavigationCardProps) {
+export function NavigationCard({ item, categoryTitle = 'Unknown' }: NavigationCardProps) {
   const isExternalIcon = item.icon?.startsWith('http')
   const isLocalIcon = item.icon && !isExternalIcon
 
@@ -23,6 +25,10 @@ export function NavigationCard({ item }: NavigationCardProps) {
       ? item.icon 
       : `/${item.icon}`
     : item.icon || '/placeholder-icon.png'
+
+  const handleClick = () => {
+    trackNavigationClick(categoryTitle, item.title, item.href)
+  }
 
   return (
     <TooltipProvider>
@@ -34,6 +40,7 @@ export function NavigationCard({ item }: NavigationCardProps) {
               target="_blank"
               rel="noopener noreferrer"
               className="block h-full"
+              onClick={handleClick}
             >
               <CardHeader>
                 <div className="flex items-start gap-2 sm:gap-4">
