@@ -2,6 +2,8 @@
 
 import Link from 'next/link'
 import { Button } from "@/registry/new-york/ui/button"
+export const runtime = 'edge'
+
 
 export default function NotFound() {
   return (
