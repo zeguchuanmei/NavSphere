@@ -26,7 +26,7 @@ export function NavigationContent({
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
 
-  // 修复类型检查
+  // 修复类型检查和搜索逻辑
   const searchResults = useMemo(() => {
     const query = searchQuery.toLowerCase().trim();
     if (!query) return [];
@@ -101,7 +101,7 @@ export function NavigationContent({
       </div>
 
       <main className="flex-1">
-        <div className="sticky top-0 bg-background/90 backdrop-blur-sm z-10 px-3 sm:px-6 py-2">
+        <div className="sticky top-0 bg-background/90 backdrop-blur-sm z-30 px-3 sm:px-6 py-2">
           <div className="flex items-center gap-3">
             <div className="flex-1">
               <SearchBar

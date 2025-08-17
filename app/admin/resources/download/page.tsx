@@ -12,19 +12,19 @@ const FaviconDownloader: React.FC = () => {
     const handleFetch = async (method: 'direct' | 'html') => {
         setIsLoading(true);
         setShowError('');
-        const apiUrl = method === 'direct' 
+        const apiUrl = method === 'direct'
             ? `/api/favicon?domain=${url}`
-            : `/api/favicon-from-html?domain=${url}`;
+            : `/api/favicon-im?domain=${url}`;
 
         try {
             console.log(`Fetching favicon ${method === 'direct' ? 'directly' : 'from HTML'}: ${apiUrl}`);
             const response = await fetch(apiUrl);
             console.log(`Response status: ${response.status}`);
-            
+
             if (!response.ok) {
                 throw new Error('无法访问该网站或未找到 Favicon');
             }
-            
+
             const blob = await response.blob();
             const blobUrl = window.URL.createObjectURL(blob);
             setFaviconUrl(blobUrl);
@@ -56,7 +56,7 @@ const FaviconDownloader: React.FC = () => {
                     <h1 className="text-3xl font-bold text-center text-gray-800 mb-8">
                         Favicon 下载器
                     </h1>
-                    
+
                     <div className="space-y-6">
                         <div className="relative">
                             <input
@@ -69,31 +69,31 @@ const FaviconDownloader: React.FC = () => {
                         </div>
 
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                            <button 
+                            <button
                                 onClick={() => handleFetch('direct')}
                                 disabled={isLoading || !url}
                                 className="flex-1 bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition disabled:opacity-50 disabled:cursor-not-allowed"
                             >
-                                {isLoading ? '获取中...' : '直接获取 Favicon'}
+                                {isLoading ? '获取中...' : '通过 Google Favicon 获取'}
                             </button>
-                            <button 
+                            <button
                                 onClick={() => handleFetch('html')}
                                 disabled={isLoading || !url}
                                 className="flex-1 bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600 transition disabled:opacity-50 disabled:cursor-not-allowed"
                             >
-                                {isLoading ? '获取中...' : '解析 HTML 获取'}
+                                {isLoading ? '获取中...' : '通过favicon im获取'}
                             </button>
                         </div>
 
                         {faviconUrl && (
                             <div className="text-center p-6 bg-gray-50 rounded-lg">
-                                <img 
-                                    src={faviconUrl} 
-                                    alt="Favicon" 
+                                <img
+                                    src={faviconUrl}
+                                    alt="Favicon"
                                     className="w-16 h-16 mx-auto mb-4 shadow-md rounded"
                                 />
                                 <p className="text-gray-600 mb-4">Favicon 已获取成功！</p>
-                                <button 
+                                <button
                                     onClick={downloadFavicon}
                                     className="bg-indigo-500 text-white px-6 py-2 rounded-lg hover:bg-indigo-600 transition"
                                 >

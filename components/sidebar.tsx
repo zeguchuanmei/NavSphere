@@ -35,6 +35,17 @@ export function Sidebar({
     }
   };
 
+  const handleCategoryClick = (categoryId: string) => {
+    // 先跳转到对应区域
+    scrollToSection(categoryId)
+
+    // 如果有子分类，切换展开/收起状态
+    const category = navigationData.navigationItems.find(cat => cat.id === categoryId)
+    if (category?.subCategories && category.subCategories.length > 0) {
+      toggleCategory(categoryId)
+    }
+  }
+
   const renderIcon = (iconName?: string) => {
     if (!iconName) return <LucideIcons.Folder className="h-4 w-4" />;
 
@@ -101,8 +112,8 @@ export function Sidebar({
               <div className="flex items-center">
                 <Button
                   variant="ghost"
-                  className="flex-1 justify-start gap-2 font-medium text-muted-foreground hover:text-foreground"
-                  onClick={() => scrollToSection(category.id)}
+                  className="flex-1 justify-start gap-2 font-medium text-muted-foreground hover:text-foreground cursor-pointer"
+                  onClick={() => handleCategoryClick(category.id)}
                 >
                   {renderIcon(category.icon)}
                   <span>{category.title}</span>
@@ -138,7 +149,7 @@ export function Sidebar({
                     <Button
                       key={subCategory.id}
                       variant="ghost"
-                      className="w-full justify-start pl-6 text-sm text-muted-foreground/80 hover:text-foreground"
+                      className="w-full justify-start pl-6 text-sm text-muted-foreground/80 hover:text-foreground cursor-pointer"
                       onClick={() => {
                         scrollToSection(subCategory.id);
                         onClose?.();

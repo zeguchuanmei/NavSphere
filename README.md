@@ -46,14 +46,14 @@ NavSphere 是一个基于 Next.js 14 构建的现代化导航管理平台，专�
 
 | 技术栈              | 版本          | 用途                  |
 | ------------------- | ------------- | --------------------- |
-| **Next.js**         | 14.0.4        | React 全栈框架        |
+| **Next.js**         | 15.4.6        | React 全栈框架        |
 | **React**           | 18.2.0        | 用户界面库            |
 | **TypeScript**      | 5.1.6         | 类型安全的 JavaScript |
-| **Tailwind CSS**    | 3.3.3         | 原子化 CSS 框架       |
+| **Tailwind CSS**    | 4.1.12        | 原子化 CSS 框架       |
 | **NextAuth.js**     | 5.0.0-beta.25 | 身份认证解决方案      |
 | **Radix UI**        | Latest        | 无障碍 UI 组件库      |
 | **Lucide React**    | 0.462.0       | 现代图标库            |
-| **React Query**     | 5.61.5        | 数据获取和状态管理    |
+| **React Query**     | 5.62.2        | 数据获取和状态管理    |
 | **React Hook Form** | 7.53.2        | 表单处理              |
 | **Zod**             | 3.22.4        | 数据验证              |
 
@@ -468,6 +468,19 @@ NavSphere/
 6. **查看构建日志**: 在 Cloudflare Pages Dashboard 中查看详细的构建和部署日志
 </details>
 
+
+## 💖 支持我们
+
+如果这个项目对你有帮助，欢迎支持我们的开发工作！
+
+<p align="center">
+  <img src="doc/a.jpg" alt="打赏码" width="300" />
+</p>
+
+<p align="center">
+  <strong>扫码支持 | 您的支持是我们持续开发的动力</strong>
+</p>
+
 ## 🤝 贡献指南
 
 我们欢迎所有形式的贡献！
@@ -498,6 +511,7 @@ NavSphere/
 - [Radix UI](https://www.radix-ui.com/) - 无障碍组件库
 - [Cloudflare Pages](https://pages.cloudflare.com/) - 可靠的部署平台
 - 所有为项目做出贡献的开发者
+
 
 ---
 
