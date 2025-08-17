@@ -2,7 +2,7 @@
 const nextConfig = {
   // Docker 部署支持
   output: 'standalone',
-  
+
   images: {
     domains: [
       'dash.cloudflare.com',
@@ -13,9 +13,9 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '**',
-      },
-    ],
+        hostname: '**'
+      }
+    ]
   },
   async rewrites() {
     return [
@@ -32,7 +32,7 @@ const nextConfig = {
   // Cloudflare Pages configuration
   experimental: {
     serverActions: {
-      allowedOrigins: ['localhost', 'navsphere.com']
+      allowedOrigins: ['localhost', 'hao.zhilu.cn']
     }
   }
 }
